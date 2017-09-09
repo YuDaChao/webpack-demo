@@ -1,9 +1,6 @@
 /**
  * Created by apple on 2017/8/27.
  */
-/**
- * Created by apple on 2017/8/27.
- */
 import React from 'react'
 import {
     BrowserRouter as Router,
